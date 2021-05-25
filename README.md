@@ -1,7 +1,7 @@
 # Full-Stack-MERN-Project-iMessage
 Backend API Design of iMessage-Clone with Node JS, Express JS, and MongoDB. (With Pusher as Client-Server Trigger)
 
-# 🌎 Hosted Online: https://tinder-clone-indu.web.app #
+# 🌎 Hosted Online: https://imessage-indu.web.app/ #
 
 ## Frontend ## 
 #### 👉 Build with React js ####
